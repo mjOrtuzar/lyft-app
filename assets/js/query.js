@@ -1,0 +1,2 @@
+$('#splash').fadeOut(500);
+
