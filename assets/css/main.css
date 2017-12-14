@@ -1,12 +1,21 @@
 #splash{
-    background-color:purple;
-    width:100%;
-    position:absolute;
-    top:0;
-    left:0;
-    bottom:0;
+    background-color:purple;;
+    height: 100vh;
+    
 }
-
+#splash img{
+    width:200px;
+    height: 200px;
+    padding-top:10%;
+}
+section{
+    background-image: url(../assets/img/img-lyft.jpg);
+}
 .invi{
     display:none;
+}
+
+button{
+    background-color: #F40083;
+    color:#fff;
 }
